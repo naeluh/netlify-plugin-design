@@ -1,0 +1,22 @@
+{
+  "name": "netlify-plugin-design",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naeluh/netlify-plugin-design.git"
+  },
+  "author": "Nick Hulea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naeluh/netlify-plugin-design/issues"
+  },
+  "homepage": "https://github.com/naeluh/netlify-plugin-design#readme",
+  "dependencies": {
+    "netlify": "^3.0.0"
+  }
+}
