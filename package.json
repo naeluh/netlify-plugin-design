@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/naeluh/netlify-plugin-design#readme",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "netlify": "^3.0.0"
   }
 }
